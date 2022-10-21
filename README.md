@@ -14,7 +14,7 @@ A supply chain is a network of individuals and companies who are involved in cre
 ## How does this solution work?
 Every product works as an NFT, and every NFT has an owner who we can trace. Every time a change of ownership occurs, we can know where the product is and with who along the way, tracking every event from the beginning until the destination, so the consumer will be our last owner. Also, the participants can pay each other with a token bound to the solution.
 
-<img src="./code_resume.png" width=30% />
+<img src="./doc/code_resume.png" width=50% />
 
 ## What about the tokens used in this supply chain?
 In order to make all the payments, this solution has its own token called SupplyCoin, which is an ERC20 token that complies with the whole [standard defined by OpenZeppeling](https://docs.openzeppelin.com/contracts/2.x/erc20) with all the functionalities that any other coin in the market has.
